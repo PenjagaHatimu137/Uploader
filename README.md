@@ -1,2 +1,0 @@
-# Uploader
-Karawang Cyber Team
